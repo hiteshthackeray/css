@@ -1,0 +1,43 @@
+/*this is a comment*/
+body {
+	font-family: "Times New Roman";
+	text-align:left;
+	background-color: #fff9f3;
+	color: #461703;
+	font-size: 110%;
+	margin: 5%
+}	
+header {
+	font-family: "Courier New";
+	text-align: center;
+	font-style: oblique;
+	font-variant: normal;
+	line-height: 50%;
+	background: ;
+	padding: 5px;
+}
+span {
+	font-family:serif;
+	background-color:#414b3b;
+	color: #ffffff;
+	height: 50%;
+	display:inline-block;
+	line-height:150%;
+}
+footer {
+	font-family: "Courier New";
+	text-align: center;
+	font-variant: small-caps;
+	line-height: 300%;
+}
+button {
+	display:inline-block;
+	line-height: 200%;
+}
+#logo {
+	border: 10px #B9345A Outset;
+	width: 300px;
+}
+#figlogo {
+	text-align: center;
+}
