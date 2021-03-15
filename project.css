@@ -117,6 +117,7 @@ a:active {
 table, th,td {
 	padding:20px;
 	text-align: center;
+        border:hidden;
 }
 table {
 	background-color: transparent;
