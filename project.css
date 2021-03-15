@@ -1,0 +1,130 @@
+/*this is a comment*/
+body {
+	font-family: "Poppins";
+	text-align:left;
+	background-color: #fff9f3;
+	color: #461703;
+	font-size: 110%;
+	margin: 5vh;
+	clear:both;
+	margin-bottom:20vh;
+	position:relative;
+}	
+header {
+	font-family: "Courier New";
+	text-align: center;
+	color:black;
+	background: transparent; 
+	font-style: oblique;
+	font-variant: normal;
+	line-height: 50%;
+	padding: 5px;
+	clear: both;
+	margin:10px; 
+	position: static; 
+	top:; 
+	left:; 
+	transition-property: visibility, opacity,width, height,display;
+	transition-duration:50s;
+	transition-timing-function:linear;
+	transition-delay:50s;
+	
+}
+span {
+	font-family:serif;
+	background-color:#414b3b;
+	color: #ffffff;
+	height: 50%;
+	display:inline-block;
+	line-height:150%;
+	margin:2px;
+}
+footer {
+	font-family: "Courier New";
+	text-align: center;
+	font-variant: small-caps;
+	line-height:5vh;
+	clear:both;
+	position:fixed;
+	bottom:0%;
+	background:#fff9f3;
+	width:100%;
+}
+button {
+	display:inline-block;
+	line-height: 200%;
+	border-radius:5px;
+	background-color: transparent;
+	margin-top: 20px;
+	border:;
+}
+input[type="submit"] {
+	background-color: transparent;
+}
+img[alt="hitesh thakare"] {
+	border: 5px inset;
+	width: 50vw;
+	border-radius:25%;
+}
+#figlogo {
+	text-align: center;
+	margin-top:50px;
+}
+.social-media {
+	border:1px solid;
+	padding: 2px;
+	margin:
+	display:inline-block;
+	text-decoration:none;
+	border-radius:5px;
+}
+
+details>nav>a{
+	display:inline-block;
+	width:100%;
+	text-decoration:none;
+	font-size:50%;
+	margin:1px;
+	background:#CAD5E2;
+	padding:5px 1px 5px 1px;
+	text-align:center;
+	float:right;
+	clear:both;
+}
+a{
+	background:;
+	color:#6A1B4D;
+	transition-property: color, text-decoration, width, border, line-height, font-size, padding, border-radius, background;
+	transition-duration:.5s;
+	transition-timing-function:linear;
+	transition-delay:.5s;
+}
+a:visited {
+	background:;
+	color:#03203C;
+	font-size:80%;
+}
+a:hover, a:focus {
+	background:;
+	font-size:125%;
+	line-height:125%;
+	border:1px solid;
+}
+a:active {
+	background:#C8E2DF;
+}
+
+table, th,td {
+	padding:20px;
+	text-align: center;
+	border:1px solid black
+}
+table {
+	background-color: transparent;
+	width:70vw;
+	border:2vw;
+	margin:1vw;
+	box-shadow:1px 5px 5px 1px #BF3325;
+	border-color:white;
+	border-radius:5%;
+}
