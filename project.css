@@ -44,10 +44,10 @@ footer {
 	text-align: center;
 	font-variant: small-caps;
         font-size:30px;
-	line-height:100%;
+	line-height:120%;
 	clear:both;
 	position:fixed;
-	bottom:10%;
+	bottom:15%;
 	background:#fff9f3;
 	width:100%;
 }
