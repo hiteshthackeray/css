@@ -73,7 +73,8 @@ img[alt="hitesh thakare"] {
 .social-media {
 	border:1px solid;
 	padding: 2px;
-	margin:
+	margin:;
+        font-size:150%;
 	display:inline-block;
         line-height:150%;
 	text-decoration:none;
