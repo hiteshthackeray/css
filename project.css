@@ -43,7 +43,7 @@ footer {
 	font-family: "Courier New";
 	text-align: center;
 	font-variant: small-caps;
-	line-height:5vh;
+	line-height:100%;
 	clear:both;
 	position:fixed;
 	bottom:0%;
@@ -75,6 +75,7 @@ img[alt="hitesh thakare"] {
 	padding: 2px;
 	margin:
 	display:inline-block;
+        line-height:150%;
 	text-decoration:none;
 	border-radius:5px;
 }
