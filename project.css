@@ -120,6 +120,7 @@ table, th,td {
         border:hidden;
 }
 table {
+        box-sizing: border-box;
 	background-color: transparent;
 	width:90vw;
 	border:2vw;
